@@ -30,3 +30,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## References
+
+Used parts of the following projects, modified heavily to make it to what I need:
+
+- [Isometric Box Generator Script](https://github.com/darkwark/isobox-for-aseprite)
+- [Isometric Master](https://github.com/brezden/Isometric-Master)
