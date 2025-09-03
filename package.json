@@ -1,0 +1,24 @@
+{
+  "name": "isogen",
+  "displayName": "IsoGen",
+  "description": "Create isometric shapes easily (Aseprite extension)",
+  "version": "0.1.1",
+  "author": {
+    "name": "Andersmmg",
+    "email": "andersmmg@gmail.com",
+    "url": "https://github.com/andersmmg/"
+  },
+  "contributors": [],
+  "publisher": "andersmmg",
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./plugin.lua"
+      }
+    ]
+  }
+}
